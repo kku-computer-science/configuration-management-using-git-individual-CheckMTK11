@@ -1,4 +1,5 @@
-Author: Banchpol Bubphamala
-Section: 2
-I am responsible for: Bubble sort
+"Author: Banchpol Bubphamala"
+"Section: 2"
+"I am responsible for: Bubble sort"
+"Semester 2/2568"
 "Team: Checkky Ka Yee Bai"
